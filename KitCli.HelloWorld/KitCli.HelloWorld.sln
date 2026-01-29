@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitCli.HelloWorld", "KitCli.HelloWorld.csproj", "{523E9B4D-E846-40D6-9003-ADD9A55A155D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523E9B4D-E846-40D6-9003-ADD9A55A155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523E9B4D-E846-40D6-9003-ADD9A55A155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523E9B4D-E846-40D6-9003-ADD9A55A155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523E9B4D-E846-40D6-9003-ADD9A55A155D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
