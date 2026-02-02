@@ -1,6 +1,7 @@
-using KitCli;
 using KitCli.Commands.Abstractions.Io.Outcomes;
 using KitCli.Workflow.Abstractions;
+
+namespace KitCli.Example.HelloWorld;
 
 public class HelloWorldCliApp : CliApp
 {

@@ -6,10 +6,12 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <UserSecretsId>00a9ce17-4a57-4ecc-91b0-cf7346d79608</UserSecretsId>
+        <AssemblyName>KitCli.Example.HelloWorld</AssemblyName>
+        <RootNamespace>KitCli.Example.HelloWorld</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="KitCli" Version="1.0.1" />
+      <PackageReference Include="KitCli" Version="1.0.4" />
     </ItemGroup>
 
 </Project>

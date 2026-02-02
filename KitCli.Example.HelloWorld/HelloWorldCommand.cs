@@ -5,7 +5,7 @@ using KitCli.Commands.Abstractions.Handlers;
 using KitCli.Commands.Abstractions.Outcomes;
 using KitCli.Instructions.Abstractions;
 
-namespace KitCli.HelloWorld;
+namespace KitCli.Example.HelloWorld;
 
 public record HelloWorldCliCommand : CliCommand;
 
